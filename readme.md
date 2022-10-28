@@ -2,7 +2,7 @@
 
 Some good enough rules when writing prompts. Let us explore the emergent abilities of large language models together!
 
-Contributions and suggestions wellcome!! Add your experiences when writing prompts so we can be better witcher/ magician/ sorcerer/ alchemis, or scientist. 
+Contributions and suggestions wellcome!! Add your experiences when writing prompts so we can be better witcher/ magician/ sorcerer/ alchemist, or scientist. 
 
 Here we go: 
 
