@@ -1,7 +1,7 @@
 ![title](cover.png)
 Prompted from Dall-E 2: A cat studying a magic book about spelling in a dark classroom, digital art
 
-# Prompt Handbook: Rules of Thumb 👍 for Writing Good Prompts
+# Prompt Handbook: Rules of Thumb 👍 for Writing Magic Prompts
 
 Some good enough rules when writing prompts. Let us explore the emergent abilities of large language models together!
 
