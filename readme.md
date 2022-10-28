@@ -1,6 +1,10 @@
-# Prompt Handbook: Rule of Thumb for Writing Good Prompts
+# Prompt Handbook: Rules of Thumb for Writing Good Prompts
 
-Some good enough rules when writing prompts. 
+Some good enough rules when writing prompts. Let us explore the emergent abilities of large language models together!
+
+Contributions and suggestions wellcome!! Add your experiences when writing prompts so we can be better witcher/ magician/ sorcerer/ alchemis, or scientist. 
+
+Here we go: 
 
 1. Use the largest model you have access to. GPT3 text-davinci-002 and code-davinci-002 are probably the best publically available models. 
 2. code-davinci-002 is better at structured inputs and complex reasoning; text-davinci-002 is better at natural inputs and intuitive reasoning. 
@@ -12,4 +16,4 @@ Some good enough rules when writing prompts.
    2. Be detailed when writing chain of thoughts, do not jump between steps, do not take shortcuts 
    3. Choose complex chain of thoughts, not simple chains, as your prompt
 
-TBC ...  
+More to come ... 
