@@ -38,7 +38,7 @@ improves multi-step reasoning.
 
 ## Generalization Performance v.s. Fine-tuning
 * Currently (2022.10) there is little study comparing prompting v.s. fine-tuning in a fair setting. Many existing work compares prompting large models v.s. fine-tuning small models 
-* When the test set is in-distribution, the 
+* When the test set is in-distribution, the impression is that fine-tuning is better. Yet for out-of-distribution setting, prompting seems to be more robust.
 
 # References
 
