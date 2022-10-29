@@ -9,7 +9,10 @@ Some good enough rules when writing prompts. Let us explore the emergent abiliti
 
 Contributions and suggestions wellcome!! Add your experiences when writing prompts so we can be better witcher/ magician/ sorcerer/ alchemist, or scientist. 
 
-Disclaimer: suggestions below are from a variety of sources (papers, blogs, talks, discussions, .etc), which makes many of them hard to cite and credit precisely. I am still trying to find out the best way to credit everyone contributed, so definitely tell me if you feel your contributions is listed below but not credited properly. 
+Disclaimer: 
+* Suggestions below are from a variety of sources (papers, blogs, talks, discussions, .etc), which makes many of them hard to cite and credit precisely. I am still trying to find out the best way to credit everyone contributed, so definitely tell me if you feel your contributions is listed below but not credited properly. 
+* Althought the purpose of this project is to list reliable rules when writing prompts, prompting can be unstable in many cases. So please do raise an issue if you find a rule is not a good one to follow. 
+
 # The Prompt Handbook
 
 ## Choosing a Language Model 
