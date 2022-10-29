@@ -3,11 +3,13 @@ Prompted from Dall-E 2: A cat studying a magic book about spelling in a dark cla
 
 # Prompt Handbook: Rules of Thumb 👍 for Writing Good Magical Prompts
 
+Yao Fu. University of Edinburgh. yao.fu@ed.ac.uk
+
 Some good enough rules when writing prompts. Let us explore the emergent abilities of large language models together!
 
 Contributions and suggestions wellcome!! Add your experiences when writing prompts so we can be better witcher/ magician/ sorcerer/ alchemist, or scientist. 
 
-Here we go: 
+Disclaimer: suggestions below are from a variety of sources (papers, blogs, talks, discussions, .etc), which makes many of them hard to cite and credit precisely. I am still trying to find out the best way to credit everyone contributed, so definitely tell me if you feel your contributions is listed below but not credited properly. 
 # The Prompt Handbook
 
 ## Choosing a Language Model 
