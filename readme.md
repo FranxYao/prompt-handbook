@@ -32,20 +32,30 @@ Disclaimer:
    * Be detailed when writing chain of thoughts, do not jump between steps, do not take shortcuts 
    * Choose complex chain of thoughts, not simple chains, as your prompt
 
-## Decoding 
-* sample multiple reasoning chains then majority voting
-improves multi-step reasoning. 
+## Chain of Thought
+
+## Explanation
+
+## Recall Internal Knowledge
 
 ## Decomposition
 * If a question is too complicated, split it into multiple simpler subquestions, then ask the subquestions one-by-one
 * You may want to google a question instead of prompting 
   * Google is better for obtaining knowledge, LMs are better for reasoning with given knowledge
 
+## Decoding 
+* sample multiple reasoning chains then majority voting
+improves multi-step reasoning. 
+
 ## Generalization Performance v.s. Fine-tuning
 * Currently (2022.10) there is little study comparing prompting v.s. fine-tuning in a fair setting. Many existing work compares prompting large models v.s. fine-tuning small models 
 * When the test set is in-distribution, the impression is that fine-tuning is better. Yet for out-of-distribution setting, prompting seems to be more robust.
 
 # References
+
+## General 
+* [GPT-3 Hunt](https://www.buildgpt3.com)
+* [GPT-3 Demo](https://gpt3demo.com)
 
 ## Chain of Thoughts Series
 TBC
